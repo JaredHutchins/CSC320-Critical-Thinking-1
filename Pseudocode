@@ -1,0 +1,24 @@
+START
+    // Request user input
+    PRINT "Enter First Name: "
+    READ firstName
+
+    PRINT "Enter Last Name: "
+    READ lastName
+
+    PRINT "Enter Address: "
+    READ address
+
+    PRINT "Enter City: "
+    READ city
+
+    PRINT "Enter Zip Code: "
+    READ zipCode
+
+    // Print the entered information
+    PRINT "First Name: " + firstName
+    PRINT "Last Name: " + lastName
+    PRINT "Address: " + address
+    PRINT "City: " + city
+    PRINT "Zip Code: " + zipCode
+END
