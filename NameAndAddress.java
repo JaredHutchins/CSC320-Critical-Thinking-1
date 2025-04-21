@@ -1,6 +1,6 @@
 import java.util.Scanner;  // Imports the Scanner class for user input
 
-public class PersonInfo {
+public class NameAndAddress {
     public static void main(String[] args) {
         Scanner scnr = new Scanner(System.in);  // Scanner for user input
 
